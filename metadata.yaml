@@ -1,0 +1,29 @@
+_repo: Index-for-Works-of-Mary-Gaunt-Hyperlinks-to-all-Chapters-of-all-Individual-Ebooks_57524
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gaunt, Mary
+    birthdate: 1861
+    deathdate: 1942
+    gutenberg_agent_id: '9864'
+    url: http://www.gutenberg.org/2009/agents/9864
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2018-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57524'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Index for Works of Mary Gaunt
+
+  Hyperlinks to all Chapters of all Individual Ebooks'
+url: http://www.gutenberg.org/ebooks/57524
